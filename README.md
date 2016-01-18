@@ -6,3 +6,5 @@ This project involves designing and implementing a 3D printer (inspired from the
 ![alt text](IMG_9564.jpeg)
 
 ## Current CAD Files of the 3D Printer
+
+![alt text](CurrentAssemblyPhoto.png)
