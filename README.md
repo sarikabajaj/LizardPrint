@@ -11,11 +11,11 @@ This project involves designing and implementing a 3D printer (inspired from the
 ![alt text](CurrentAssemblyPhoto.png)
 
 ## Bill of Materials
-2 18" x 24" pieces of black plastic
-1 kg of blue ABS filament
-5 Stepper motors (NEMA17) 
-1 Sanguinololu
-3 limit switches
-2 3/8" threaded rods (15")
-3 3/8" unthreaded rods (36")
-1 Hot End Extruder (Bowden Extruder) 
+*2 18" x 24" pieces of black plastic
+*1 kg of blue ABS filament
+*5 Stepper motors (NEMA17) 
+*1 Sanguinololu
+*3 limit switches
+*2 3/8" threaded rods (15")
+*3 3/8" unthreaded rods (36")
+*1 Hot End Extruder (Bowden Extruder) 
