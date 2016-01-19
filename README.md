@@ -8,16 +8,6 @@ This project involves designing and implementing a 3D printer (inspired from the
 
 ## Current CAD Renderings
 
-
-LizardPrint Firmware	Firmware Files	4 hours ago
-.DS_Store	CADs	25 seconds ago
-CompleteModel1.png	CADs	25 seconds ago
-CurrentAssemblyPhoto.png	cad pic	an hour ago
-IMG_9564.jpeg	Image	4 hours ago
-MainFrame.png	CADs	25 seconds ago
-README.md	Update README.md	43 minutes ago
-XandZAxisMovement.png	CADs	25 seconds ago
-YAxisMovement.png	CADs
 The complete model. 
 ![alt text](CompleteModel1.png)
 
