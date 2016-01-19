@@ -8,7 +8,27 @@ This project involves designing and implementing a 3D printer (inspired from the
 
 ## Current CAD Renderings
 
-![alt text](CurrentAssemblyPhoto.png)
+
+LizardPrint Firmware	Firmware Files	4 hours ago
+.DS_Store	CADs	25 seconds ago
+CompleteModel1.png	CADs	25 seconds ago
+CurrentAssemblyPhoto.png	cad pic	an hour ago
+IMG_9564.jpeg	Image	4 hours ago
+MainFrame.png	CADs	25 seconds ago
+README.md	Update README.md	43 minutes ago
+XandZAxisMovement.png	CADs	25 seconds ago
+YAxisMovement.png	CADs
+The complete model. 
+![alt text](CompleteModel1.png)
+
+The main frame of the printer. 
+![alt text](MainFrame.png)
+
+A close up view of how the base of the printer moves in the Y Axis. 
+![alt text](YAxisMovement.png)
+
+A close up view of how the X Axis Support Structure (on which the extruder will rest) moves up and down the Z Axis. 
+![alt text](XandZAxisMovement.png)
 
 ## Bill of Materials
 * 2 18" x 24" pieces of black plastic
