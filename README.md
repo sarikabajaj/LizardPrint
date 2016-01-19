@@ -1,5 +1,5 @@
 # LizardPrint
-##A Plastic and Conductive Ink 3D Printer
+####A Plastic and Conductive Ink 3D Printer
 Sarika Bajaj, Gaurav Lahiry, Marie Bremner, Shivang Chordia 
 
 This project involves designing and implementing a 3D printer (inspired from the RepRap printer, iTopie) such that plastic and conductive ink can be extruded to print completely integrated electromechanical systems that have embedded circuits in between plastic layers. 
